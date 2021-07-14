@@ -11,7 +11,6 @@ var seach = document.getElementById("search");
 // var productList = [];
 
 
-
 if(localStorage.getItem("myData")== null){
 
  var productList = [];
