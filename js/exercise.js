@@ -56,7 +56,7 @@ function display(){
 
         tds += `
         <tr>
-            <td>${i}</td>
+            <td>${i+1}</td>
             <td> ${productList[i].name}</td>
             <td>${productList[i].category}</td>
             <td>${productList[i].price}</td>
