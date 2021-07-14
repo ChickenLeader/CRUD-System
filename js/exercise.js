@@ -1,10 +1,10 @@
 
 
-var productName = document.getElementById("pName");
-var productCategory = document.getElementById("pCategory");
-var productPrice = document.getElementById("pPrice");
-var productDesc = document.getElementById("pDesc");
-var seach = document.getElementById("search");
+let productName = document.getElementById("pName");
+let productCategory = document.getElementById("pCategory");
+let productPrice = document.getElementById("pPrice");
+let productDesc = document.getElementById("pDesc");
+let seach = document.getElementById("search");
 
 
 // var productList = [];
