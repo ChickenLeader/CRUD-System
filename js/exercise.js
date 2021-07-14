@@ -7,7 +7,6 @@ var productDesc = document.getElementById("pDesc");
 var seach = document.getElementById("search");
 
 
-
 // var productList = [];
 
 
