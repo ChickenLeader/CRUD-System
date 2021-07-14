@@ -1,15 +1,9 @@
-document.getElementById(pName);
-document.getElementById(pCategory);
-document.getElementById(pPrice);
-document.getElementById(pDesc);
 
-document.getElementById(search);
 
 var productName = document.getElementById("pName");
 var productCategory = document.getElementById("pCategory");
 var productPrice = document.getElementById("pPrice");
 var productDesc = document.getElementById("pDesc");
-
 var seach = document.getElementById("search");
 
 
